@@ -1,8 +1,10 @@
+import NavBar from "./NavBar"
 
 const Home=()=> {
   return (
-    <p>Hello from Home</p>
-  )
+
+    <NavBar/>
+)
 }
 
 export default Home
