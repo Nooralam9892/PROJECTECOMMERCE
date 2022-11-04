@@ -4,7 +4,7 @@ import{Box} from '@mui/material';
 
 function App() {
   return (
-    <div >
+    <div>
     <Header/>
     <Box style={{marginTop:54}}>
       <Home/>
